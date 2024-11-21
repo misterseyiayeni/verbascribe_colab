@@ -21,3 +21,15 @@ To run VerbaScribe, you need to have the following dependencies installed:
 - SpeechRecognition
 - pydub
 - ffmpeg
+
+![demo_pg1](https://github.com/user-attachments/assets/52248b94-49bf-4376-949e-1f5c6f1625c5)
+
+![demo_pg2](https://github.com/user-attachments/assets/3950f86e-6ffc-494e-95ba-2e4ba9ba16da)
+
+![demo_pg3](https://github.com/user-attachments/assets/50983ea5-0b98-4aac-8466-1638dc07dc90)
+
+![demo_pg4](https://github.com/user-attachments/assets/debf37b1-bcb5-40a7-ae5f-90af419e6eea)
+
+![demo_pg5](https://github.com/user-attachments/assets/8b0b6b0d-a0fe-4e75-b4f1-3f6688b28644)
+
+![demo_pg6](https://github.com/user-attachments/assets/c44ac80e-ebb7-4295-8976-0d923ae7b95a)
