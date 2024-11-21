@@ -17,7 +17,6 @@ VerbaScribe offers significant value to both individuals and businesses:
 ## Dependencies
 To run VerbaScribe, you need to have the following dependencies installed:
 - Python 3.x
-- Flask
 - SpeechRecognition
 - pydub
 - ffmpeg
